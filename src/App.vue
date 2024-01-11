@@ -11,6 +11,9 @@ onHide(() => {
   console.log('App Hide')
 })
 </script>
+<template>
+  <div></div>
+</template>
 
 <style lang="scss">
 // 字体图标
